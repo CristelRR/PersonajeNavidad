@@ -1,6 +1,10 @@
 # PersonajeNavidad
 ##Nombre de tu personaje
 
+##Integrantes:
+Lucía Cristel Ramírez Romero
+Eduardo Gonzolez Ortiz
+
 #Materiales a utilizar
 
 |Nombre del componente|Descripción|Cantidad|Precio|
