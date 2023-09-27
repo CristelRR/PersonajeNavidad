@@ -5,6 +5,9 @@
 Lucía Cristel Ramírez Romero
 Eduardo Gonzolez Ortiz
 
+##Grupo:
+GDS0541
+
 #Materiales a utilizar
 
 |Nombre del componente|Descripción|Cantidad|Precio|
