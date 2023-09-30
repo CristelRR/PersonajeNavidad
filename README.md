@@ -27,8 +27,9 @@ GDS0541
 
 
 ##Comunicacion
--Describir la manera en que consideramos que utilizaria su celular para comunicarse con su personaje
+- Consideramos que el celular se va a comunicar con nuestros personajes mediante el uso que hagamos de led y sensores de movimiento y sonido, lo cual les permitira a estos desarrollar las acciones por medio del uso de una red Wifi y una aplicaciones que tengamos en nuestro telefono, tanto la placa ESP32 debe de tener una IP pertenenciente a la red de Wifi como nuestro celular tambien debera estar conectado a la misma red para que se le asigne una IP y se puedan comunicar mdiante el protocolo TCP/IP (Permite enviar y recibir informacion mediante internet).
 
+  
 ##Arquitectura
 -Diagrama que contenga los sensores(), los actuadores(leds, display), el microcontrolador, el servidor(maquina)
 
