@@ -2,8 +2,7 @@
 ##Nombre de tu personaje
 
 ##Integrantes:
-Lucía Cristel Ramírez Romero
-Eduardo Gonzolez Ortiz
+Lucía Cristel Ramírez Romero - Eduardo Gonzolez Ortiz
 
 ##Grupo:
 GDS0541
