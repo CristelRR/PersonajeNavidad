@@ -13,7 +13,13 @@ GDS0541
 |-|-|-|-|
 |ESP|Microcontrolador con 30 pines con comunicacion WiFi y Bluetooth|1|$140.00|
 |Cable Dupont|Cables para conexión de prototipos de pruebas|50|$60|
-|||||
+|Hojas de Foamy sencillo|Material para crear la vestimenta de la figura|10|$40|
+|Hoja de Foamy con diamentina|Material para darle detalle a los personajes|5|$40|
+|Bolitas de Unicel|Material para formar el cuerpo de la figura|5|$30|
+|Barras de silicon|Silicon para pegar los materiales|5|$15|
+|LED|Cable con luz led|1|$169|
+|Resistencia|Resistencia para conectar los led a la placa|1|...|
+|Algodon|Material para el cuerpo del cordero|1 bolsa|$30|
 
 ##Software a Utilizar
 |Nombre|Versión|Tipo de software|
@@ -36,4 +42,6 @@ GDS0541
 -Diagrama que contenga los sensores(), los actuadores(leds, display), el microcontrolador, el servidor(maquina)
 
 ##Base de datos
--Imagen tabla o tablas que usuarías (Ej. sensores, actuadores) en un modelo relacional
+-Esta es una idea de como posiblemente quedaría la base de datos que almacenara todas las actividades y datos de nuestros sensores y actuadores.
+![WhatsApp Image 2023-09-30 at 9 51 59 PM](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/c8524e83-61db-4316-aad6-dfb8c699593e)
+
