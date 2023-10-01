@@ -1,5 +1,5 @@
 # PersonajeNavidad
-##Nombre de tu personaje
+##Nombre de tu personaje: Pastora con cordero
 
 ##Integrantes:
 Lucía Cristel Ramírez Romero - Eduardo Gonzolez Ortiz
@@ -22,7 +22,9 @@ GDS0541
 |ssd1602|1.8.1|Software Libre|
 
 ##Prototipo en dibujo
--Fotografía del prototipo o personaje
+- La mano de la pastora se movera con su cayado(bastón)
+- El cordero tendrá leds entre su cuerpo, ya que estará construido de algodón y los leds iluminarán color blanco
+- Al cordero tendrá una bicita debebajoo dentro de el que emita el sonido que normalmente hace.
 ![WhatsApp Image 2023-09-30 at 7 46 45 PM (1)](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/47e79575-1302-4b49-b3bd-821c37e581fb)
 
 
