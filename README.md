@@ -23,7 +23,7 @@ GDS0541
 
 ##Prototipo en dibujo
 -Fotografía del prototipo o personaje
-![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/840508fc-9939-4da6-acea-1d8cccb1cff6)
+![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/b9a44221-cb60-49ed-81ad-c4bc9646261f)
 
 
 ##Comunicacion
