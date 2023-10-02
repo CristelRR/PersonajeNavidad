@@ -40,6 +40,8 @@ GDS0541
   
 ##Arquitectura
 -Diagrama que contenga los sensores(), los actuadores(leds, display), el microcontrolador, el servidor(maquina)
+![Imagen de WhatsApp 2023](https://github.com/CristelRR/PersonajeNavidad/assets/135056458/537c4906-1fd3-4c02-adfa-0ae7087c2ec9)
+
 
 ##Base de datos
 -Esta es una idea de como posiblemente quedaría la base de datos que almacenara todas las actividades y datos de nuestros sensores y actuadores.
