@@ -11,7 +11,7 @@ GDS0541
 
 |Nombre del componente|Descripción|Cantidad|Precio|
 |-|-|-|-|
-|ESP|Microcontrolador con 30 pines con comunicacion WiFi y Bluetooth|1|$140.00|
+|ESP|Microcontrolador con 30 pines con comunicacion WiFi y Bluetooth|2|$140.00|
 |Cable Dupont|Cables para conexión de prototipos de pruebas|50|$60|
 |Hojas de Foamy sencillo|Material para crear la vestimenta de la figura|10|$40|
 |Hoja de Foamy con diamentina|Material para darle detalle a los personajes|5|$40|
@@ -20,6 +20,18 @@ GDS0541
 |LED|Cable con luz led|1|$169|
 |Resistencia|Resistencia para conectar los led a la placa|1|...|
 |Algodon|Material para el cuerpo del cordero|1 bolsa|$30|
+|Tubo de papel aluminio|Material reciclado|
+|Carton|
+|Periodico|
+|Engrudo|
+|Retazo|
+|Leds|30|$150|
+|Proto board|2|$59|
+|Motor a pasos|$59|
+|Bocina o Buzer pasivo|$29|
+|Pila de polimero de litio|$189|
+|Modulo de controlador de motor a pasos A4988|$99|
+
 
 ##Software a Utilizar
 |Nombre|Versión|Tipo de software|
