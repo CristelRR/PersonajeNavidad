@@ -32,7 +32,9 @@ GDS0541
 - La mano de la pastora se movera con su cayado(bastón)
 - El cordero tendrá leds entre su cuerpo, ya que estará construido de algodón y los leds iluminarán color blanco
 - Al cordero tendrá una bocina debajo dentro de el que emita el sonido que normalmente hace.
-![WhatsApp Image 2023-09-30 at 7 46 45 PM (1)](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/47e79575-1302-4b49-b3bd-821c37e581fb)
+![Uploading WhatsApp Image 2023-11-09 at 10.39.50 PM.jpeg…]()
+
+![WhatsApp Image 2023-11-09 at 10 39 43 PM](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/cdb4f6ae-afa1-4e97-890e-fe245225b3e6)
 
 
 ##Comunicacion
@@ -42,9 +44,7 @@ GDS0541
 ##Arquitectura
 -Diagrama que contenga los sensores(), los actuadores(leds, display), el microcontrolador, el servidor(maquina)
 ![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/91509793-b69e-4186-aa19-4822cb8b30d9)
-![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/35669d89-4cdf-4cb5-ac0c-24f50cb9ae94)
-![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/133c600b-6f2e-413e-8785-d4915bc1a2f4)
-
+![WhatsApp Image 2023-11-09 at 9 23 08 PM](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/694b5601-af38-4645-b715-23428e591855)
 
 
 ##Base de datos
