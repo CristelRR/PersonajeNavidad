@@ -20,11 +20,11 @@ GDS0541
 |LED|Cable con luz led|1|$169|
 |Resistencia|Resistencia para conectar los led a la placa|1|...|
 |Algodon|Material para el cuerpo del cordero|1 bolsa|$30|
-|Tubo de papel aluminio|Material reciclado|
-|Carton|
-|Periodico|
-|Engrudo|
-|Retazo|
+|Tubo de papel aluminio|Material reciclado|3pz|$0.00|
+|Carton|Material Reciclado|5 cajas|$0.00|
+|Periodico|Material Reciclado|20 pzs|$0.00|
+|Engrudo|Material fabricado con harina y agua|5 litros|$30.00|
+|Retazos de tela|Material Reciclado|Muchas pzs|$0.00|
 |Leds|...|30|$150|
 |Proto board|...|2|$59|
 |Motor a pasos|...|...|$59|
