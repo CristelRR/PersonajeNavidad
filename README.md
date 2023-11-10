@@ -32,7 +32,7 @@ GDS0541
 - La mano de la pastora se movera con su cayado(bastón)
 - El cordero tendrá leds entre su cuerpo, ya que estará construido de algodón y los leds iluminarán color blanco
 - Al cordero tendrá una bocina debajo dentro de el que emita el sonido que normalmente hace.
-![Uploading WhatsApp Image 2023-11-09 at 10.39.50 PM.jpeg…]()
+![WhatsApp Image 2023-11-09 at 10 39 50 PM](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/70e3b8c1-769e-4b64-934a-39068e23fab1)
 
 ![WhatsApp Image 2023-11-09 at 10 39 43 PM](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/cdb4f6ae-afa1-4e97-890e-fe245225b3e6)
 
