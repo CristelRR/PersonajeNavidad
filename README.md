@@ -41,6 +41,7 @@ GDS0541
   
 ##Arquitectura
 -Diagrama que contenga los sensores(), los actuadores(leds, display), el microcontrolador, el servidor(maquina)
+![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/91509793-b69e-4186-aa19-4822cb8b30d9)
 ![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/35669d89-4cdf-4cb5-ac0c-24f50cb9ae94)
 ![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/133c600b-6f2e-413e-8785-d4915bc1a2f4)
 
