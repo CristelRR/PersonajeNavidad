@@ -38,7 +38,7 @@ GDS0541
 |-|-|-|
 |Thonny|4.2.1|Software Libre|
 |ssd1602|1.8.1|Software Libre|
-|Arduino IDE|1.8.
+|Arduino IDE|1.8.19|Software Libre|
 
 ##Prototipo en dibujo
 - La mano de la pastora se movera con su cayado(bastón)
