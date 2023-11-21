@@ -27,10 +27,10 @@ GDS0541
 |Retazos de tela|Material Reciclado|Muchas pzs|$0.00|
 |Leds|...|30|$150|
 |Proto board|...|2|$59|
-|Motor a pasos|...|...|$59|
-|Bocina o Buzer pasivo|$29|
-|Pila de polimero de litio|$189|
-|Modulo de controlador de motor a pasos A4988|$99|
+|Motor a pasos|...|1|$59|
+|Bocina o Buzer pasivo|...|1|$29|
+|Pila de polimero de litio|...|1|$189|
+|Modulo de controlador de motor a pasos A4988|...|1|$99|
 
 
 ##Software a Utilizar
