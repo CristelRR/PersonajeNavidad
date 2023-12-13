@@ -52,6 +52,23 @@ GDS0541
 ##Comunicacion
 - Consideramos que el celular se va a comunicar con nuestros personajes mediante el uso que hagamos de led y sensores de movimiento y sonido, lo cual les permitira a estos desarrollar las acciones por medio del uso de una red Wifi y una aplicaciones que tengamos en nuestro telefono, tanto la placa ESP32 debe de tener una IP pertenenciente a la red de Wifi como nuestro celular tambien debera estar conectado a la misma red para que se le asigne una IP y se puedan comunicar mediante el protocolo TCP/IP (Permite enviar y recibir informacion mediante internet).
 
+##Documentación del proyecto terminado
+
+-Archivos python con el código
+https://drive.google.com/file/d/1kW3IDv7jtGdSPQvcXM63qujNFdXWyLoZ/view?usp=drive_link
+https://drive.google.com/file/d/1fRLgKCTaQh3YPUTl6EGcnWJDpqOt5rX1/view?usp=drive_link
+https://drive.google.com/file/d/1QgnBjzc4u4sviF5hWRLHPY3YgmTZU6hs/view?usp=drive_link
+https://drive.google.com/file/d/1QgnBjzc4u4sviF5hWRLHPY3YgmTZU6hs/view?usp=drive_link
+
+-Videos de evidencia
+https://drive.google.com/file/d/1IMDkMsIYRR7s4hp54YwvC03WpTlmRvk_/view?usp=sharing
+https://drive.google.com/file/d/1Z5Gz0CpfKhsvlFZugH6_bqvoUUVEHJfh/view?usp=drive_link
+https://drive.google.com/file/d/1mNJ902tkkbF439QaIMSdQw6bnpe9nrHa/view?usp=drive_link
+
+-Foto elaboración del código
+![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/dabd48de-7c20-4738-b6d7-7102d3afb310)
+![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/b0a38687-08c3-4b85-b874-3b2797952fe0)
+![image](https://github.com/CristelRR/PersonajeNavidad/assets/135056625/ccb7757d-5283-4dac-9c1d-311fee746cc2)
   
 ##Arquitectura
 -Diagrama que contenga los sensores(), los actuadores(leds, display), el microcontrolador, el servidor(maquina)
