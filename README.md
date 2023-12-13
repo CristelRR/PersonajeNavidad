@@ -1,8 +1,8 @@
 # PersonajeNavidad
-##Nombre de tu personaje: Pastora con cordero
+##Nombre de tu personaje: Pastora con lámpara
 
 ##Integrantes:
-Lucía Cristel Ramírez Romero - Eduardo Gonzolez Ortiz
+Lucía Cristel Ramírez Romero
 
 ##Grupo:
 GDS0541
